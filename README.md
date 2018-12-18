@@ -10,3 +10,7 @@ Sample website with plenty of files for demos
 ## This has to hashs
 
 This is without Hash
+
+## GIT comparisions
+Adding GIT comparisions
+
