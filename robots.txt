@@ -2,3 +2,4 @@
 
 User-agent: *
 password - xxxxxxx (For comparing stage area and git repo)
+Added to check diff between commits

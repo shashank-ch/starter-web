@@ -15,3 +15,4 @@
     jQuery, Modernizr, AJAX
     Java - added newly
     Python - for comparision between stage area and git repo
+    Added to check diff in commits
