@@ -1,3 +1,4 @@
 # robotstxt.org/
 
 User-agent: *
+password - xxxxxxx (For comparing stage area and git repo)

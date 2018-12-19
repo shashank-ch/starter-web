@@ -14,3 +14,4 @@
     HTML5, CSS3, Angular
     jQuery, Modernizr, AJAX
     Java - added newly
+    Python - for comparision between stage area and git repo
