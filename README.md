@@ -15,3 +15,6 @@ This is without Hash
 Adding GIT comparisions
 
 Added in develop branch for merge - 1 - am
+**********
+to check merge after rewind in masters
+
