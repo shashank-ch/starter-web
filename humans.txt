@@ -15,5 +15,6 @@
     jQuery, Modernizr, AJAX
     Java - added newly
     Python - for comparision between stage area and git repo
-    Added to check diff in commits
-    Added in develop branch to check merge with -am - 1
+    Added to check
+    
+    deleted a line above, and edited the the above it. This is new line in master branch
