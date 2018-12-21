@@ -5,3 +5,5 @@ password - xxxxxxx (For comparing stage area and git repo)
 Added to check diff between commits
 Added in dev Branch to check branches
 Added in master branch - am to check merge - 1
+**************************
+In master - to check rebase
