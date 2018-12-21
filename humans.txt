@@ -18,3 +18,5 @@
     Added to check
     
     deleted a line above, and edited the the above it. This is new line in master branch
+    *******************
+    In mybranch - to check rebase
