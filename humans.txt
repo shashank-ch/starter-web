@@ -19,4 +19,5 @@
     
     deleted a line above, and edited the the above it. This is new line in master branch
     *******************
-    In mybranch - to check rebase
+    In mybranch - to check 
+    This is added in master edit - 1 , "rebase" is deleted in above line.
